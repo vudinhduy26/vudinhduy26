@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CuaBeLinh
+- 👋 Hi, I’m Duy (Back-end Developer)
 - 👀 1010
-- 🌱 2005
-- 💞️ BUIYENLINH
+- 🌱 Python Back-end
+- 💞️ BYL - 2005
 - 📫 How to reach me ...
 
 <!---
