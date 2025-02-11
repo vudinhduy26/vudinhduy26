@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Duy (Back-end Developer)
 - 👀
 - 🌱 Python Back-end
-- 💞️ 2005
+- 💞️ 2003
 - 📫 How to reach me ...
 
 <!---
